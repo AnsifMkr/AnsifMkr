@@ -54,6 +54,7 @@
 <p>
   <a href="https://github.com/AnsifMkr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ansifmkr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ansifmkr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-AnsifMKR-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
