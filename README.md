@@ -12,7 +12,7 @@
 - 🛠️ Currently using **React, Django, TailwindCSS, PostgreSQL**
 - 💬 Ask me about anything related to **Web Apps, APIs, and Automation**
 - 📫 How to reach me: **[ansifmkr@gmail.com](mailto:ansifmkr@gmail.com)**
-- 📁 [Portfolio](https:\\ansif-personal-website.netlify.app)
+- 📁 [Portfolio](https://ansif-personal-website.netlify.app)
 
 ---
 
