@@ -7,7 +7,7 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently building an **Event Booking Platform**  
+- 🔭 I’m currently building an **Learning Platform**  
 - 🌱 Learning more about **Full Stack Development & Django REST API**
 - 🛠️ Currently using **React, Django, TailwindCSS, PostgreSQL**
 - 💬 Ask me about anything related to **Web Apps, APIs, and Automation**
@@ -45,7 +45,7 @@
 
 - 🎫 [Event Booking System (Frontend)](https://github.com/AnsifMkr/event-booking-frontend)
 - 🖥 [Event Booking System (Backend)](https://github.com/AnsifMkr/event-booking-backend)
-- 📦 More coming soon...
+- 📦 [Learning Website(Full-stack)](https://github.com/AnsifMkr/Learning-website)
 
 ---
 
